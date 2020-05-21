@@ -3,12 +3,6 @@
     padding: 0;
 }
 
-/* Shared Board */
-.shared-board {
-    width: 100%;
-    height: 80vh;
-}
-
 /* Header */
 header {
     max-height: 10vh;
